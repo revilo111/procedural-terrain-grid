@@ -9,8 +9,6 @@ For each chunk, vector 4s are stored of the chunks walls, in the form [0,0,0,0] 
 Also, the neighbouring chunks' walls are stored in the current chunk so the terrain generation can be calculated. For the floor generation, each floor plane is split into 4 sections and a specific exponental function is applied using the
 distance that the x,z coordinate is away from the centre of the chunk or another coordinate set.
 
-Thank you.
-
 [1] - https://www.youtube.com/watch?v=TPfS-HjPlRs
 [2] - https://www.youtube.com/watch?v=wbpMiKiSKm8&list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3
 [3] - https://docs.unity3d.com/Manual/UnityManual.html
